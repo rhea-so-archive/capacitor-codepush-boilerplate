@@ -27,7 +27,7 @@ jobs:
         with:
           type: zip
           filename: release.zip
-          directory: ./build
+          path: ./build
 
       - name: Upload Release
         uses: ncipollo/release-action@main
