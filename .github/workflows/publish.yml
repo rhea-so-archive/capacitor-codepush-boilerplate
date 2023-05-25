@@ -27,11 +27,11 @@ jobs:
         with:
           type: zip
           filename: release.zip
-          path: ./build
+          directory: ./build
 
       - name: Upload Release
         uses: ncipollo/release-action@main
         with:
-          artifacts: release.zip
+          artifacts: ./build/release.zip
           token: ${{ secrets.GITHUB_TOKEN }}
           allowUpdates: true
