@@ -5,7 +5,12 @@
   "server": {
     "androidScheme": "https"
   },
-  "CapacitorUpdater": {
-    "autoUpdate": false
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    },
+    "CapacitorUpdater": {
+      "autoUpdate": false
+    }
   }
 }
