@@ -22,9 +22,15 @@ jobs:
       - name: Build
         run: npm run build
 
-      - name: Release to GitHub
+      - name: Zipping
         uses: thedoctor0/zip-release@main
         with:
           type: zip
           filename: release.zip
           directory: ./build
+
+      - name: Upload Release
+        uses: ncipollo/release-action@main
+        with:
+          artifacts: release.zip
+          token: ${{ secrets.GITHUB_TOKEN }}
