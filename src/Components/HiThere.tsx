@@ -44,10 +44,10 @@ export default function HiThere() {
         <br />
         <p>
           <a
-            href="https://github.com/rhea-so-lab/react-vite-capacitor-boilerplate"
+            href="https://github.com/rhea-so-lab/capacitor-codepush-boilerplate"
             target="_blank"
           >
-            React + Vite + Capacitor Boilerplate
+            Capacitor CodePush Boilerplate
           </a>
         </p>
         <br />
