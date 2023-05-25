@@ -6,9 +6,9 @@
 
 <img width="771" alt="image" src="https://github.com/rhea-so-lab/capacitor-codepush-boilerplate/assets/25793226/bc88f4fc-38a4-42b5-82f4-1e07486272e8">
 
-Change this URL to your Git Repository URL!
-
 > VersionController.tsx
+
+Change this URL to your Git Repository URL!
 
 ## How to publish new version?
 
