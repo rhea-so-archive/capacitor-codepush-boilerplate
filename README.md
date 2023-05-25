@@ -22,6 +22,12 @@ It is downloaded and synchronized the first time the app is loaded.
 
 Using [cap-go's capacitor-updater](https://github.com/Cap-go/capacitor-updater) module.
 
+## Problem?
+
+GitHub API Rate Limit.
+
+Suggest to use https://capgo.app/.
+
 ## License
 
 This project is licensed under the [MIT](./LICENSE).
