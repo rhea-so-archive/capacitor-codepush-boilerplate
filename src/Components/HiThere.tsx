@@ -37,9 +37,9 @@ export default function HiThere() {
     <>
       <BigText>
         <h1>
-          👋
+          😎
           <br />
-          Hello, World!
+          Code Push!
         </h1>
         <br />
         <p>
