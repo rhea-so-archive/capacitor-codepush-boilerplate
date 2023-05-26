@@ -26,7 +26,7 @@ Using [cap-go's capacitor-updater](https://github.com/Cap-go/capacitor-updater) 
 
 [GitHub API Rate Limit.](https://docs.github.com/en/rest/releases/releases?apiVersion=2022-11-28#get-the-latest-release)
 
-Suggest to use https://capgo.app/.
+Suggest to use https://capgo.app/ or make your own server.
 
 ## License
 
