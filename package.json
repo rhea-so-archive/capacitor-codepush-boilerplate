@@ -18,7 +18,7 @@
     "@capacitor/core": "5.0.4",
     "@capacitor/ios": "5.0.4",
     "@capacitor/splash-screen": "5.0.2",
-    "@capgo/capacitor-updater": "8.0.0",
+    "@capgo/capacitor-updater": "10.0.0",
     "@vitejs/plugin-react": "4.0.0",
     "react": "18.2.0",
     "react-dom": "18.2.0",
