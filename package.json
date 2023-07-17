@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "@capacitor/android": "5.0.5",
-    "@capacitor/core": "5.1.1",
+    "@capacitor/core": "5.2.1",
     "@capacitor/ios": "5.1.1",
     "@capacitor/splash-screen": "5.0.5",
     "@capgo/capacitor-updater": "10.0.0",
